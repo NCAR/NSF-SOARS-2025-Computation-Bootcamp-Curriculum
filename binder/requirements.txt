@@ -1,0 +1,7 @@
+cartopy
+matplotlib
+numpy
+owslib
+pandas
+pyproj
+xarray
